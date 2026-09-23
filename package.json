@@ -12,7 +12,7 @@
   "description": "",
   "dependencies": {
     "2checkout-node": "^0.0.1",
-    "body-parser": "^1.20.2",
-    "express": "^4.19.2"
+    "body-parser": "^1.20.8",
+    "express": "^4.22.3"
   }
 }
